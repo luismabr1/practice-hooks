@@ -24,6 +24,16 @@
   color: white;
 }
 
+.bg-light{
+  background-color: #f8f9fa;
+  color: 252525;
+}
+
+.bg-dark{
+  background-color: #343a40;
+  color: #fff;
+}
+
 .App-link {
   color: #61dafb;
 }
